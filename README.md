@@ -1,6 +1,6 @@
 # SearchStyle
  
-|![](https://github.com/gzeinnumer/SearchStyle/blob/master/preview/preview1.jpg)|
+|<img src="https://github.com/gzeinnumer/SearchStyle/blob/master/preview/preview1.jpg" width="200"/>|
 |---|
 
 ```xml
