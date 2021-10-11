@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <include layout="@layout/widget_search"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/def_margin"
+        android:layout_marginEnd="@dimen/def_margin"
+        android:layout_marginBottom="@dimen/def_margin">
+
+        <include
+            android:id="@+id/ws"
+            layout="@layout/widget_search_v2" />
+    </LinearLayout>
+
+</LinearLayout>
