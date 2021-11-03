@@ -27,6 +27,9 @@
 
 - [widget_search.xml](https://github.com/gzeinnumer/SearchStyle/blob/master/app/src/main/res/layout/widget_search.xml)
 - [widget_search_v2.xml](https://github.com/gzeinnumer/SearchStyle/blob/master/app/src/main/res/layout/widget_search_v2.xml)
+- [background_search.xml](https://github.com/gzeinnumer/SearchStyle/blob/master/app/src/main/res/drawable/background_search.xml)
+- [mygzn_search_icon.xml](https://github.com/gzeinnumer/SearchStyle/blob/master/app/src/main/res/drawable/mygzn_search_icon.xml)
+- [mygzn_search_clear.xml](https://github.com/gzeinnumer/SearchStyle/blob/master/app/src/main/res/drawable/mygzn_search_clear.xml)
 
 ```xml
 <dimen name="def_margin">16dp</dimen>
